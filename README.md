@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @jedheanjali
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning js
-- 💞️ I’m looking to collaborate on github
-- 📫 How to reach me ...
+- 🌱 I’m a trainer
 
 <!---
 jedheanjali/jedheanjali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
